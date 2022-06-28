@@ -1,0 +1,23 @@
+.options-img {
+    height: 400px;
+    width: auto;
+    padding-top: 20px;
+}
+
+.winner {
+    padding-top: 20px;
+}
+
+.main-title {
+    padding-top: 20px;
+}
+
+body {
+    background-color: #e5e5e5 !important;
+}
+
+.rock,
+.paper,
+.scissors {
+    border-radius: 10px;
+}
